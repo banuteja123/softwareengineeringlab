@@ -1,5 +1,3 @@
-#implement weather modeling using the quzdratic solution in stages hard coding variables, keyboard input, read from a file, for a single set of input, multiple sets of input and save all versions debug, fix problems, create a github account.
-
 def calculate_temperature(time, a, b, c):
 
     temperature = a * (time ** 2) + (b * time) + c
